@@ -104,6 +104,9 @@
   .mt_30_xsm {
     margin-top: 30px;
   }
+  .mt_258 {
+    margin-top: 85px;
+  }
   .hr1 {
     margin-top: 55px !important;
   }
@@ -122,6 +125,12 @@
   }
   .mt_58 {
     margin-top: 38px;
+  }
+  .max_420 {
+    max-width: 100%;
+  }
+  .mt_117 {
+    margin-top: 90px !important;
   }
   .menu span:nth-child(1) {
     height: 4px;
@@ -192,14 +201,27 @@
     --fs--6xl: 49px;
     --fs--7xl: 45px;
   }
+
   .mt_88 {
     margin-top: 60px;
+  }
+  .mt_258 {
+    margin-top: 90px !important;
+  }
+  .mt_117 {
+    margin-top: 75px;
   }
   .mt_258 {
     margin-top: 140px;
   }
   .mt_82 {
     margin-top: 55px;
+  }
+  .max_420 {
+    max-width: 100%;
+  }
+  .my_30xsm {
+    margin: 30px 0 !important;
   }
   .mt_30_xsm {
     margin-top: 30px;
@@ -218,13 +240,13 @@
     --fs--xsm: 14px;
     --fs--sm: 15px;
     --fs--md: 17px;
-    --fs--lg: 17px;
+    --fs--lg: 14px;
     --fs--xl: 20px;
     --fs--xxl: 30px;
     --fs--xxxl: 40px;
     --fs--4xl: 42px;
     --fs--5xl: 30px;
-    --fs--6xl: 49px;
+    --fs--6xl: 33px;
     --fs--7xl: 40px;
   }
   .mt_88 {
@@ -243,9 +265,17 @@
     margin-top: 70px;
     margin-bottom: 50px;
   }
-
   .mt_58 {
     margin-top: 45px;
+  }
+  .mt_117 {
+    margin-top: 45px;
+  }
+  .max_420 {
+    max-width: 100%;
+  }
+  .my_30xsm {
+    margin: 30px 0 !important;
   }
   .mt_62 {
     margin-top: 70px;
